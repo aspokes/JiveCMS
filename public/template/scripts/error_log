@@ -1,0 +1,5 @@
+[17-Dec-2018 14:25:17 UTC] PHP Notice:  Undefined variable: recordCount in /home/j02036ai5f0v/public_html/web/public/template/scripts/gallery.ajax.php on line 5
+[17-Dec-2018 14:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function FetchNextObject() on boolean in /home/j02036ai5f0v/public_html/web/public/template/scripts/gallery.ajax.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/j02036ai5f0v/public_html/web/public/template/scripts/gallery.ajax.php on line 7

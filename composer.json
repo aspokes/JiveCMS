@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+	"config":{
+	"vendor-dir": "plugins"
+	},
+	"autoload":{
+	"classmap":[
+		"./"	
+	]
+}
+}

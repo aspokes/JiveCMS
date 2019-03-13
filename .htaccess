@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteRule ^([^/]*)/([^/]*)\.html$ /colossium/index.php?pg=$1&cg=load&site=$2 [L]
+
+</IfModule>
